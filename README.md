@@ -68,3 +68,31 @@ It visually shows how **actors** (users or external systems) interact with the s
 Below is an example of a use case diagram for the **Booking System**:
 
 ![Booking System Use Case](alx-booking-uc.png)
+
+# Acceptance Criteria
+
+Acceptance criteria (AC) are **specific conditions that a feature or user story must satisfy to be considered complete**. They play a critical role in requirement analysis by:
+
+## Importance of Acceptance Criteria
+- Providing **clarity and shared understanding** among stakeholders, developers, and testers.
+- Defining **what “done” looks like**, reducing ambiguity.
+- Guiding **test case creation** and ensuring quality assurance.
+- Helping **manage scope** and prevent feature creep.
+- Ensuring that delivered features **meet user expectations**, improving customer satisfaction.
+
+## Example: Checkout Feature in a Booking Management System
+
+**Acceptance Criteria:**
+
+1. **Cart Review**
+   - Users must be able to view all selected bookings in the cart.
+   - Users can remove or modify bookings before checkout.
+
+2. **Payment Process**
+   - Users can select a payment method (credit/debit card or online payment).
+   - Payment must be successfully processed before confirmation.
+   - Users are notified of payment failures with clear error messages.
+
+3. **Booking Confirmation**
+   - A confirmation message or email is sent after successful checkout.
+   - Users can view a summary of their booking and payment details.
