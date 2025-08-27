@@ -35,3 +35,18 @@ Requirement analysis is a critical phase in Software Development Lifecycle (SDLC
 ## Requirement Validation
 - Review and validate the requirements with stakeholders.
 - Define acceptance criteria and ensure traceability.
+
+# Types of Requirements
+## 1. Functional Requirement Analysis
+Functional requirement analysis focuses on what the system should do.
+It covers features, functions, and behaviors.
+
+Example: User Authentication,property search,booking system,user registration
+
+"The system shall allow users to log in with a username and password."
+
+## 2. Non-Functional Requirement Analysis
+Non-Functional requirement analysis focuses on how the system should perform.
+Includes performance, security, usability, reliability, scalability, etc.
+
+Example: "The system should support 10,000 concurrent users."
