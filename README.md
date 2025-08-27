@@ -13,3 +13,25 @@ Requirement analysis is a critical phase in Software Development Lifecycle (SDLC
 - It helps in clearlyy defining the scope of the project hence preventing scope creep
 - Facilitates accurate estimation of project cost, resources, and time
 - Ensures that the final product meets the specified requirements, leading to higher customer satisfaction
+
+# Key Activities in Requirement Analysis
+
+## Requirement Gathering
+- Engage with stakeholders to collect initial requirements.
+- Use various techniques like interviews, surveys, and workshops.
+
+## Requirement Elicitation
+- Refine and elaborate on the gathered requirements.
+- Use techniques like brainstorming, focus groups, and prototyping.
+
+## Requirement Documentation
+- Document the requirements in a detailed and structured format.
+- Use requirement specification documents, user stories, and use cases.
+
+## Requirement Analysis and Modeling
+- Analyze and prioritize the requirements.
+- Create models to visualize and understand the requirements.
+
+## Requirement Validation
+- Review and validate the requirements with stakeholders.
+- Define acceptance criteria and ensure traceability.
