@@ -50,3 +50,21 @@ Non-Functional requirement analysis focuses on how the system should perform.
 Includes performance, security, usability, reliability, scalability, etc.
 
 Example: "The system should support 10,000 concurrent users."
+
+# Use Case Diagrams
+
+A **Use Case Diagram** is a UML diagram used in requirement analysis to capture the functional requirements of a system.  
+It visually shows how **actors** (users or external systems) interact with the system through **use cases** (functionalities).  
+
+## Benefits of Use Case Diagrams
+- Provide a high-level view of system functionality.
+- Identify external users and their interactions with the system.
+- Clarify system boundaries and scope.
+- Improve communication between developers, designers, and stakeholders.
+- Serve as a foundation for creating detailed requirements and test cases.
+
+## Booking System Use Case Diagram
+
+Below is an example of a use case diagram for the **Booking System**:
+
+![Booking System Use Case](hotel_booking_system.drawio.png)
