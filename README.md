@@ -67,4 +67,4 @@ It visually shows how **actors** (users or external systems) interact with the s
 
 Below is an example of a use case diagram for the **Booking System**:
 
-![Booking System Use Case](hotel_booking_system.drawio.png)
+![Booking System Use Case](alx-booking-uc.png)
